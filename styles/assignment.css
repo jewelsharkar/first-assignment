@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+}
+
+/*header section*/
+.up-header {
+    background-image: url(../images/banner/banner2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 1600px;
+    height: 809px;
+}
+
+.header-title {
+    text-align: right;
+    color: #151414;
+    font-weight: 700;
+    font-size: 65px;
+    padding: 216px 230PX 0PX 845PX;
+    margin-bottom: 24PX;
+}
+.header-discription {
+    color: #444343;
+    text-align: right;
+    font-weight: 400;
+    font-size: 16px;
+    padding: 0px 230PX 40PX 845PX;
+}
+
+.header-btn {
+    padding: 0px 230PX 40PX 1250PX;
+    border: 1px;
+    background-color: blue;
+    border-radius: 5px;
+    font-size: 20px;
+}
