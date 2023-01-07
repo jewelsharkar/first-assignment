@@ -8,7 +8,10 @@
     background-repeat: no-repeat;
     background-position: center;
     width: 1600px;
-    height: 809px;
+    height: 900px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .header-title {
@@ -31,7 +34,6 @@
 .header-btn {
     padding: 0px 230PX 40PX 1250PX;
     border: 1px;
-    background-color: blue;
     border-radius: 5px;
     font-size: 20px;
 }
